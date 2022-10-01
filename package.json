@@ -1,0 +1,22 @@
+{
+  "name": "rpn-calculator",
+  "version": "1.0.0",
+  "description": "Reverse Polish Notation (RPN) Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Emily Portalatin-Mendez",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilypmendez/rpn-calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emilypmendez/rpn-calculator/issues"
+  },
+  "homepage": "https://github.com/emilypmendez/rpn-calculator#readme"
+}
